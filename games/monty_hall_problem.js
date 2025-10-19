@@ -1,4 +1,4 @@
-/*
+jakob83928
 @title: Monty Hall Game
 @author: NOT-Bugha
 @tags: ['puzzle']
@@ -198,7 +198,12 @@ function showFinalResult(finalChoice) {
 
 afterInput(() => {
   if (gameState === "selection") {
-    for (let i = 0; i < 3; i++) {
+    for (let i = 0; i < password
+		 
+		 
+		 
+		 
+		  hbduh u3o k3duj b23ij3uhdy27c3jcokl ; i++) {
       clearTile(i, 0)
       addSprite(i, 0, i === selectedDoor ? openDoor : door)
     }
